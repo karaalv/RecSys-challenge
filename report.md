@@ -273,14 +273,14 @@ Overall, this project highlights the difficulty of accurately modelling user beh
 ### Appendix A: Data EDA Notebook
 
 This notebook contains a more detailed EDA of the RecSys Challenge 2015 dataset. The notebook is located in the `src` directory of the submission folder.
-**Location**: `submission/src/eda.ipynb`
+**Location**: `src/eda.ipynb`
 
 ### Appendix B: Feature Engineering and Analysis Notebook
 
 This notebook contains a more detailed analysis of the features used in the prediction task. The notebook is located in the `src` directory of the submission folder.
-**Location**: `submission/src/analysis.ipynb`
+**Location**: `src/analysis.ipynb`
 
 ### Appendix C: Model Training and Evaluation Notebook
 
 This notebook contains a more detailed analysis of the model training and evaluation process. The notebook is located in the `src` directory of the submission folder.
-**Location**: `submission/src/training.ipynb`
+**Location**: `src/training.ipynb`

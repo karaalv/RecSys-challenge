@@ -1,0 +1,14 @@
+# Workspace settings
+.vscode/
+
+# Mac files
+**/.DS_Store
+
+# Python bytecode
+**/__pycache__/
+**.py[cod]
+
+# Folders
+**/data/
+**/docs/
+**tmp/
